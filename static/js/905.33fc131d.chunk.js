@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_template=self.webpackChunkreact_template||[]).push([[905],{6905:function(e,t,n){n.r(t);var a=n(9439),l=n(2791),u=n(9434),i=n(7689),r=n(9766),c=n(184);t.default=function(){var e=(0,i.s0)(),t=(0,u.I0)(),n=(0,l.useState)(null),s=(0,a.Z)(n,2),f=s[0],p=s[1];return(0,c.jsxs)(c.Fragment,{children:[(0,c.jsx)("input",{type:"file",onChange:function(e){p(e.target.files[0])}}),(0,c.jsx)("button",{onClick:function(){t((0,r.ip)(f)),e("/profile")},children:"Upload"})]})}}}]);
+//# sourceMappingURL=905.33fc131d.chunk.js.map
