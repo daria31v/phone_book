@@ -1,0 +1,1 @@
+export const avatar = 'https://hindistatusnow.com/wp-content/uploads/2023/01/Smile-Whatsapp-DP-Images-9.jpg';
