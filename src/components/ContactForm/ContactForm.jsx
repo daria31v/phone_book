@@ -28,7 +28,7 @@ export const ContactForm = () => {
   const listContacts = useSelector(selectContacts);
 
   const submitForm = (values, { resetForm }) => {
-        console.log(values.number);
+       
     if (listContacts.some(item => item.name === values.name)) {
       alert(`Contact <${values.name}> has already been added ⛔`)
       return
