@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/phonebook/static/css/main.89d30381.css",
-    "main.js": "/phonebook/static/js/main.90bb3996.js",
+    "main.js": "/phonebook/static/js/main.d3013f57.js",
     "static/js/708.f37c3928.chunk.js": "/phonebook/static/js/708.f37c3928.chunk.js",
     "static/js/503.03da55f3.chunk.js": "/phonebook/static/js/503.03da55f3.chunk.js",
     "static/js/564.a9b4af2e.chunk.js": "/phonebook/static/js/564.a9b4af2e.chunk.js",
-    "static/js/578.18ba23c2.chunk.js": "/phonebook/static/js/578.18ba23c2.chunk.js",
+    "static/js/578.9bc42a59.chunk.js": "/phonebook/static/js/578.9bc42a59.chunk.js",
     "static/js/475.e2b6bd4d.chunk.js": "/phonebook/static/js/475.e2b6bd4d.chunk.js",
     "static/js/126.5481be65.chunk.js": "/phonebook/static/js/126.5481be65.chunk.js",
     "static/js/905.33fc131d.chunk.js": "/phonebook/static/js/905.33fc131d.chunk.js",
@@ -15,11 +15,11 @@
     "static/js/883.2e815705.chunk.js": "/phonebook/static/js/883.2e815705.chunk.js",
     "index.html": "/phonebook/index.html",
     "main.89d30381.css.map": "/phonebook/static/css/main.89d30381.css.map",
-    "main.90bb3996.js.map": "/phonebook/static/js/main.90bb3996.js.map",
+    "main.d3013f57.js.map": "/phonebook/static/js/main.d3013f57.js.map",
     "708.f37c3928.chunk.js.map": "/phonebook/static/js/708.f37c3928.chunk.js.map",
     "503.03da55f3.chunk.js.map": "/phonebook/static/js/503.03da55f3.chunk.js.map",
     "564.a9b4af2e.chunk.js.map": "/phonebook/static/js/564.a9b4af2e.chunk.js.map",
-    "578.18ba23c2.chunk.js.map": "/phonebook/static/js/578.18ba23c2.chunk.js.map",
+    "578.9bc42a59.chunk.js.map": "/phonebook/static/js/578.9bc42a59.chunk.js.map",
     "475.e2b6bd4d.chunk.js.map": "/phonebook/static/js/475.e2b6bd4d.chunk.js.map",
     "126.5481be65.chunk.js.map": "/phonebook/static/js/126.5481be65.chunk.js.map",
     "905.33fc131d.chunk.js.map": "/phonebook/static/js/905.33fc131d.chunk.js.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.89d30381.css",
-    "static/js/main.90bb3996.js"
+    "static/js/main.d3013f57.js"
   ]
 }
