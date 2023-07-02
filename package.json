@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "react-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://daria31v.github.io/goit-react-hw-08-phonebook/",
+  "homepage": "https://daria31v.github.io/phonebook/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
